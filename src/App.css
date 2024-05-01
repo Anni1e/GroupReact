@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+h1 {
+  width: 400px;
+  transition: 0.9s;
+}
+h1:hover {
+  color: aquamarine;
+  background-color: hotpink;
+  border-radius: 20px;
+}
