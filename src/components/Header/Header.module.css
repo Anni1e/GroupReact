@@ -5,4 +5,10 @@
   width: max-content;
   border-radius: 20px;
   margin: 0 auto;
+  transition: 0.9s;
+}
+.title:hover {
+  background-color: deepskyblue;
+  font-size: 30px;
+  font-weight: 400;
 }
