@@ -1,0 +1,16 @@
+.main {
+  background: #e79494;
+  text-align: center;
+  color: white;
+  padding: 60px;
+  border-radius: 30px;
+  width: max-content;
+  margin: 50px auto;
+  transition: 0.9s;
+}
+.main:hover {
+  background: hotpink;
+  color: aqua;
+  font-size: 20px;
+  font-weight: 500;
+}
